@@ -75,7 +75,7 @@ Audio de referencia (1–3 min)
 #    https://git-scm.com/download/win
 
 # 2. Clona el repositorio
-git clone https://github.com/tu-usuario/next-id-voice-cloner
+git clone https://github.com/elmono010/Next-ID-VoiceCloner
 cd next-id-voice-cloner
 
 # 3. Ejecuta el instalador automático
