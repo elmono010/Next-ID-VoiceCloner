@@ -1,0 +1,168 @@
+# Dataset de textos en español para entrenamiento RVC
+# 200+ frases con cobertura fonética completa
+# Incluye: distintas emociones, ritmos, fonemas difíciles, números, pausas naturales
+
+# ─── NEUTROS / INFORMATIVOS ─────────────────────────────────────────────────
+Buenos días, hoy el cielo está completamente despejado y la temperatura es agradable.
+La reunión de trabajo comienza a las tres de la tarde en la sala principal del edificio.
+El documento que necesitas está en la segunda carpeta del escritorio del computador.
+Necesito confirmar si el pedido fue enviado correctamente a la dirección indicada.
+La próxima semana habrá cambios importantes en el horario de transporte público.
+El informe técnico fue revisado por el equipo de ingeniería antes de su publicación.
+Mañana sale el vuelo número doscientos cuarenta y dos a las seis de la mañana.
+Los precios del mercado subieron un doce por ciento durante el último trimestre.
+La conexión a internet presenta problemas intermitentes en el sector norte de la ciudad.
+El proyecto debe entregarse antes del viernes quince de este mes sin falta.
+Las instalaciones del nuevo centro comercial abren sus puertas el próximo lunes.
+El contrato fue firmado por ambas partes después de largas negociaciones previas.
+La temperatura máxima para hoy será de veintiocho grados centígrados en la tarde.
+Recibí tu mensaje y lo estoy revisando con mucho cuidado para darte una respuesta.
+El técnico llegará entre las dos y las cuatro de la tarde para revisar el equipo.
+
+# ─── PREGUNTAS ───────────────────────────────────────────────────────────────
+¿Podrías repetir eso por favor? Creo que no escuché bien lo que acabas de decir.
+¿A qué hora empieza exactamente la presentación del proyecto mañana por la mañana?
+¿Cuál es la dirección exacta del nuevo edificio en el centro de la ciudad?
+¿Tienes disponible el número de teléfono del departamento de atención al cliente?
+¿Cuántos días faltan exactamente para que termine el plazo de inscripción?
+¿Sabes si el restaurante acepta reservaciones para grupos de más de diez personas?
+¿Cuál es el proceso correcto para solicitar el reembolso de un producto dañado?
+¿Hay alguna forma de comunicarse con el servicio de soporte técnico de noche?
+¿Podrías explicarme paso a paso cómo funciona el nuevo sistema de pagos digitales?
+¿Dónde puedo encontrar más información sobre los programas de becas disponibles?
+¿Se puede hacer el trámite en línea o es obligatorio ir personalmente a la oficina?
+¿Cuánto tiempo tarda en promedio el proceso de aprobación de la solicitud?
+¿Alguien sabe si el evento del sábado sigue en pie o fue cancelado por la lluvia?
+¿Qué documentos necesito llevar para abrir una cuenta bancaria nueva?
+¿Cuál es la mejor ruta para llegar al aeropuerto evitando el tráfico de la tarde?
+
+# ─── EMOCIONALES / EXPRESIVOS ────────────────────────────────────────────────
+¡No puedo creer que hayamos logrado esto! Es absolutamente increíble lo que conseguimos.
+Estoy muy emocionado con los resultados del proyecto, superaron todas mis expectativas.
+Francamente, estoy un poco preocupado por los últimos resultados que hemos visto.
+¡Felicitaciones! Hicieron un trabajo extraordinario y todos estamos muy orgullosos.
+Me alegra mucho escuchar eso, es exactamente la noticia que estaba esperando hoy.
+Sinceramente, creo que podríamos haberlo hecho mejor si hubiéramos tenido más tiempo.
+Esto me parece fascinante, nunca había pensado en el problema desde esta perspectiva.
+Lamentablemente, no podremos asistir al evento por razones completamente fuera de control.
+¡Es fantástico! Exactamente lo que necesitábamos para sacar el proyecto adelante.
+Me sorprende mucho la rapidez con la que el equipo resolvió un problema tan complejo.
+Honestamente, prefiero que seamos directos y hablemos del tema sin rodeos innecesarios.
+Qué maravilloso descubrimiento, esto va a cambiar completamente la manera de trabajar.
+Me parece muy injusto lo que está pasando, y creo que debemos hacer algo al respecto.
+Es una situación difícil, pero estoy seguro de que juntos encontraremos la solución.
+¡Por fin! Llevaba semanas esperando esta noticia y ahora me siento completamente aliviado.
+
+# ─── CON PAUSAS NATURALES ────────────────────────────────────────────────────
+Bien... déjame pensar un momento... sí, creo que tienes completamente la razón en esto.
+Mira... la situación es compleja... pero si lo analizamos bien... tiene solución.
+Eh... no estoy muy seguro de eso... tendría que revisarlo... antes de darte una respuesta.
+Sí, claro... con mucho gusto... aunque necesito verificar algunos detalles primero.
+Bueno... en realidad... lo que ocurrió fue bastante diferente a lo que se comentó.
+Primero... necesitamos definir el objetivo... luego los recursos... y finalmente el plazo.
+Es que... cómo te explico... es una combinación de varios factores que interactúan.
+Exacto... eso es precisamente lo que yo decía desde el principio... me alegra que lo veas.
+Hmm... interesante perspectiva... no lo había considerado desde ese ángulo antes.
+Vamos a ver... si multiplicamos esto por tres... nos da aproximadamente noventa y seis.
+La verdad es que... no tengo todos los detalles... pero puedo contarte lo que sé.
+Espera un momento... déjame buscar el archivo... creo que lo tengo aquí guardado.
+Lo que pasa es que... el sistema funciona diferente en cada caso... dependiendo del contexto.
+Entonces... resumiendo todo lo anterior... llegamos a la siguiente conclusión importante.
+A ver... si lo pensamos bien... hay tres posibles caminos que podríamos tomar aquí.
+
+# ─── FONÉTICAMENTE COMPLEJOS ─────────────────────────────────────────────────
+El protocolo de transferencia de archivos requiere autenticación previa obligatoria.
+La configuración del servidor de producción necesita optimización urgente inmediata.
+La arquitectura distribuida del sistema garantiza disponibilidad y escalabilidad continua.
+Los parámetros de configuración predeterminados deben ajustarse según las especificaciones.
+El procesamiento paralelo de transacciones simultáneas mejora significativamente el rendimiento.
+La infraestructura tecnológica de la organización requiere una actualización completa urgente.
+Los algoritmos de compresión de datos reducen el almacenamiento sin pérdida de información.
+La sincronización automática entre dispositivos garantiza consistencia en todos los sistemas.
+El certificado de seguridad digital fue renovado satisfactoriamente por el administrador.
+La interoperabilidad entre plataformas heterogéneas representa un desafío técnico considerable.
+Los parámetros estadísticos confirman la hipótesis inicial planteada por los investigadores.
+La estandarización de los procedimientos administrativos optimiza los procesos institucionales.
+Los microcontroladores programables permiten automatizar tareas repetitivas eficientemente.
+La vulnerabilidad del sistema criptográfico fue identificada y corregida satisfactoriamente.
+La espectrometría de masas permite identificar compuestos químicos con gran precisión.
+
+# ─── NÚMEROS Y DATOS ────────────────────────────────────────────────────────
+El número de teléfono es tres, dos, uno, cuatro, cinco, seis, siete, ocho, nueve, cero.
+La cita está programada para el martes doce de agosto a las diez y media de la mañana.
+El código de acceso temporal es nueve, cuatro, siete, dos, uno, ocho, tres, seis, cinco.
+La dirección es calle cuarenta y tres número doscientos doce, apartamento trescientos uno.
+El precio total con impuestos incluidos es de ciento cuarenta y siete mil quinientos pesos.
+El vuelo sale a las catorce horas y cuarenta y cinco minutos desde la terminal dos.
+La velocidad máxima en esa zona es de noventa kilómetros por hora sin excepciones.
+El porcentaje de aprobación fue del ochenta y siete punto cinco por ciento del total.
+La contraseña temporal es ocho, siete, tres, uno, nueve, dos, cuatro, seis, cero, cinco.
+El área total del terreno es de dos mil trescientos cincuenta metros cuadrados exactamente.
+La factura número cuatrocientos cincuenta y seis tiene un valor de ochocientos dólares.
+La reunión fue convocada para el jueves veintidós a las nueve de la mañana exactas.
+El proyecto tiene una duración de dieciocho meses con un presupuesto de dos millones.
+Necesito el informe antes del viernes a las cinco de la tarde sin ninguna excepción.
+El archivo pesa doscientos cuarenta y tres megabytes y tardará tres minutos en subir.
+
+# ─── LECTURA / NARRATIVA ─────────────────────────────────────────────────────
+Era una tarde tranquila cuando el mensajero llegó con noticias que nadie esperaba recibir.
+El viento soplaba suavemente entre los árboles mientras el sol se ocultaba lentamente.
+Cada mañana, sin falta, llegaba al trabajo con la misma sonrisa y disposición de siempre.
+La historia que me contó fue tan sorprendente que no pude dormir bien esa noche.
+Después de tantos años de esfuerzo continuo, finalmente llegó el momento del reconocimiento.
+El camino era largo y sinuoso, pero la vista desde la cima valía cada paso del recorrido.
+Nadie sabía exactamente qué iba a pasar, pero todos estaban preparados para cualquier situación.
+Las palabras que escribió en aquella carta cambiaron para siempre el rumbo de su vida.
+Con paciencia y dedicación, logró construir algo que nadie antes había imaginado posible.
+El silencio en la sala era absoluto cuando anunciaron los resultados finales del concurso.
+Recuerdo perfectamente ese día como si hubiera sido apenas ayer, cada detalle grabado.
+La ciudad despertó esa mañana sin saber que todo estaba a punto de cambiar radicalmente.
+Sus palabras resonaron en la sala durante largo tiempo después de que terminara el discurso.
+Fue en ese preciso instante cuando entendió por fin el verdadero significado de sus palabras.
+El proyecto que comenzó como una idea pequeña se convirtió en algo mucho más grande.
+
+# ─── TÉCNICO / PROFESIONAL ───────────────────────────────────────────────────
+El análisis de riesgo financiero debe contemplar variables macroeconómicas y microeconómicas.
+Los indicadores de rendimiento clave muestran una mejora sostenida durante el último semestre.
+La estrategia de marketing digital debe adaptarse constantemente a las nuevas tendencias.
+El departamento de recursos humanos implementó un nuevo sistema de evaluación de desempeño.
+La cadena de suministro fue optimizada reduciendo los tiempos de entrega en un treinta por ciento.
+Los estados financieros consolidados reflejan un crecimiento positivo respecto al año anterior.
+El equipo de desarrollo completó exitosamente todas las etapas del ciclo de vida del software.
+La política de seguridad de la información debe ser revisada y actualizada periódicamente.
+El presupuesto aprobado para el próximo ejercicio fiscal representa un incremento significativo.
+La auditoría interna identificó oportunidades de mejora en varios procesos administrativos clave.
+El plan estratégico quinquenal establece objetivos claros y medibles para cada área funcional.
+La implementación del nuevo sistema ERP requirió capacitación intensiva para todo el personal.
+Los resultados del estudio de mercado confirman una demanda creciente por servicios especializados.
+El comité directivo aprobó por unanimidad la nueva estructura organizacional propuesta.
+La transformación digital de la empresa avanza según el cronograma establecido inicialmente.
+
+# ─── CONVERSACIONALES / COTIDIANOS ──────────────────────────────────────────
+Oye, ¿ya comiste? Porque hay algo rico en la cocina que preparé esta mañana temprano.
+Mira, te juro que no fue mi intención, simplemente las cosas se dieron de esa manera.
+No te preocupes, de verdad, estas cosas pasan y lo importante es que ya está resuelto.
+Ven, siéntate aquí conmigo un momento que te quiero contar algo muy importante hoy.
+Sabes que te quiero mucho, pero a veces me cuesta entender por qué actúas así.
+Chico, no vas a creer lo que me pasó ayer, es la cosa más increíble que me ha ocurrido.
+Igual y me equivoco, pero creo que deberías hablar directamente con él sobre el tema.
+La verdad es que no sé qué decirte, es una situación muy complicada y delicada.
+Para mí está bien así, de verdad, no tienes que hacer ningún esfuerzo adicional.
+Mañana nos vemos tempranito y terminamos todo lo que falta, ¿te parece bien eso?
+No lo entiendo, de verdad, por más que lo intento no consigo darle sentido a esto.
+Oye, qué bueno verte, tenía mucho tiempo sin saber nada de ti, ¿cómo has estado?
+Pues fíjate que sí, al final resultó mejor de lo que esperábamos, una gran sorpresa.
+Ay, eso me recuerda algo que quería contarte desde hace días y se me había olvidado.
+Ya sé que es tarde, pero es que el tiempo se me fue volando y no me di cuenta.
+
+# ─── SÍLABAS Y FONEMAS DIFÍCILES ────────────────────────────────────────────
+El ferrocarril transcontinental atravesó territorios prácticamente inexplorados del continente.
+La extravagancia arquitectónica del nuevo edificio generó controversia entre los expertos.
+Los extraordinarios descubrimientos arqueológicos transformaron nuestra comprensión histórica.
+La interconexión entre los diferentes subsistemas garantiza la robustez de la plataforma.
+Las extraordinarias circunstancias extraordinarias exigieron respuestas extraordinariamente rápidas.
+El estrepitoso fracaso del proyecto evidenció las deficiencias estructurales del proceso.
+La trascendental decisión fue adoptada tras exhaustivas deliberaciones en el plenario.
+Los contraproducentes efectos secundarios superaron ampliamente los beneficios esperados.
+La incomprensible complejidad burocrática frustró los intentos de reforma administrativa.
+El protagonista del relato experimentó una transformación psicológica extraordinariamente profunda.

@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+env311/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environments
+venv/
+ENV/
+.env
+
+# Project Specific
+output/
+processed/
+realtime/logs/
+Applio/
+*.pth
+*.index
+*.wav
+*.mp3
+*.flac
+*.onnx
+
+# Tools
+.vscode/
+.idea/
+.gemini/
+.antigravityignore
+
+# Executables
+NEXT-ID-VC.exe
+build_launcher.py
+NEXT-ID-VC.spec

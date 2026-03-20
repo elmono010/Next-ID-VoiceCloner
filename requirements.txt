@@ -1,0 +1,16 @@
+gradio>=4.20.0
+torch>=2.1.0
+sounddevice>=0.4.6
+torchaudio>=2.1.0
+numpy>=1.24.0
+scipy>=1.10.0
+soundfile>=0.12.1
+librosa>=0.10.0
+tqdm>=4.65.0
+pydub>=0.25.1
+colorama>=0.4.6
+rich>=13.0.0
+click>=8.1.0
+
+# OpenVoice se instala por separado con pip install -e ./OpenVoice
+# melo-tts se instala como dependencia de OpenVoice
